@@ -7,8 +7,8 @@ const char* ssid     = "WIFI NAME";
 const char* password = "PASSWORD"; 
 
 // Initialize Telegram BOT 
-const char BotToken[] = "7322018396:AAE45PaC-e4RevrTb0Q-7EQepKLshiK_Uls"; 
-String id = "7007133993";
+const char BotToken[] = ""; 
+String id = "";
 WiFiClientSecure net_ssl; 
 long checkTelegramDueTime;
 int checkTelegramDelay = 1000;
